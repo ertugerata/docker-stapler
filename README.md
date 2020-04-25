@@ -4,4 +4,4 @@
 
 To run `docker run --rm -v "${PWD}":/root ertugerata/docker-stapler`.
  
-For your convenience you can source the `stapler`-script..
+For your convenience you can source the `stapler`-script.
