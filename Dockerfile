@@ -1,5 +1,5 @@
 #ertugerata/docker-stapler
-FROM python:3.8.3-alpine3.11
+FROM python:3.10.4-alpine3.15
 LABEL maintainer Ertuğrul Erata <ertugrulerata@gmail.com>
 
 RUN pip install --no-cache stapler
